@@ -1,0 +1,19 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "@hapi/inert": "^5.2.2",
+    "@hapi/vision": "^5.5.4",
+    "hapi-ending": "^1.0.1",
+    "hapi-router": "^5.0.0",
+    "hapi-swagger": "^11.1.0"
+  }
+}
